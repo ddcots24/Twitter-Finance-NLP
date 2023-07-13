@@ -20,3 +20,6 @@
          - Label 0: Bearish
          - Label 1: Bullish
          - Label 2: Neutral
+
+## EDA
+![image](https://github.com/ddcots24/Twitter-Finance-NLP/assets/131708046/66e7e620-396f-4b0e-9153-ae48d53a427e)
