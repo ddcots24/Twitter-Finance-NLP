@@ -23,3 +23,8 @@
 
 ## EDA
 ![image](https://github.com/ddcots24/Twitter-Finance-NLP/assets/131708046/66e7e620-396f-4b0e-9153-ae48d53a427e)
+**Class Imbalance** this is important to know before I start modeling
+
+![image](https://github.com/ddcots24/Twitter-Finance-NLP/assets/131708046/b30dba1b-83ee-42a2-a743-dfeddf6c06cc)
+![image](https://github.com/ddcots24/Twitter-Finance-NLP/assets/131708046/d0ace2e3-e2c5-4309-ac7e-9e33ec0f95bb)
+![image](https://github.com/ddcots24/Twitter-Finance-NLP/assets/131708046/e4904879-734b-41f3-865a-8ac8e4a68e67)
