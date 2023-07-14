@@ -80,4 +80,4 @@
 - Day trading: if a company's earnings report is released, analyze the sentiment of tweets related to that event to gauge the market's reaction
     - This can provide additional insights into short-term price movements and potential trading opportunities
 
-
+[Presentation](https://github.com/ddcots24/Twitter-Finance-NLP/blob/main/Financial%20Tweets%20NLP%20Presentation.pdf)
