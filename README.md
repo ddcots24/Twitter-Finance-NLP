@@ -64,7 +64,7 @@
 **Important!** Each feature is a word in the CountVectorizer and there is over 11,000 words which is why the feature importance percentage is so low
 
 
-## Evaluation/Recommendations
+## Evaluation
 
 - The best model is the XGBoost classifier with an overall f1_weighted score of 81%
 - I chose the f1_weighted score as the overall metric performance because we want to take into account of the class imbalance
@@ -72,4 +72,11 @@
 - In the case of the stake holder the consequence of error is equally as strong in recall and precision score which it is why the f1 metric is the best option
     - This is miss information and will lead to poor investment decisions
 - Overall I dont think this model is good enough to use in the real world as it has some issues identifying the bullish and bearish labels
+
+## Recommendations
+
+- Focusing on captains of the financial industry. The opinions and recommendations of these influencers can gain insights into market sentiment and potentially follow their trading strategies.
+- Risk management: high amount of bearish sentimental tweets in a stock that you are invested in, set up stop loss orders
+- Day trading: if a company's earnings report is released, analyze the sentiment of tweets related to that event to gauge the market's reaction. This can provide additional insights into short-term price movements and potential trading opportunities.
+
 
