@@ -6,6 +6,7 @@
 - They find that there is a lot of financial buzz is on Twitter
 - However, they are having trouble deciphering whether the tweets are neutral, bullish or bearish
     - This can be helpful to know when to buy, sell, short, or keep an eye on for future investments
+
 **The Goal:** build a machine learning model using a natural language processor to identify whether a tweet is bullish, bearish or neutral
 - It can be used for the investors needs  their next to identify their next big play in the market
 - Equally it can make the investor privy to when stocks will potentially plummet
