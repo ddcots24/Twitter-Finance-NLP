@@ -13,10 +13,9 @@
 
 ## Data Understanding
 - The dataset was found on [Hugging Face](https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment)
-- The Twitter Financial News dataset is an English-language dataset containing an annotated corpus of finance-related tweets. 
-- This dataset is used to classify finance-related tweets for their sentiment.
+- The Twitter financial news dataset is used to classify finance-related tweets for their sentiment
 - The size of the dataset is roughly 12,000 rows of text
-- The data contains two columns; a text column that contains the tweet text and a corresponding label column with a sentiment.
+- The data contains two columns; a text column that contains the tweet text and a corresponding label column with a sentiment
     - Sentiments
          - Label 0: Bearish
          - Label 1: Bullish
@@ -76,8 +75,9 @@
 
 ## Recommendations
 
-- Focusing on captains of the financial industry. The opinions and recommendations of these influencers can gain insights into market sentiment and potentially follow their trading strategies.
+- Focusing on captains of the financial industry. The opinions and recommendations of these influencers can gain insights into market sentiment and potentially follow their trading strategies
 - Risk management: high amount of bearish sentimental tweets in a stock that you are invested in, set up stop loss orders
-- Day trading: if a company's earnings report is released, analyze the sentiment of tweets related to that event to gauge the market's reaction. This can provide additional insights into short-term price movements and potential trading opportunities.
+- Day trading: if a company's earnings report is released, analyze the sentiment of tweets related to that event to gauge the market's reaction
+    - This can provide additional insights into short-term price movements and potential trading opportunities
 
 
